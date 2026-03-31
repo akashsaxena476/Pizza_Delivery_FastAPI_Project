@@ -45,7 +45,6 @@ Server : Uvicorn
 
 - Install Postgreql
 - Install Python
-- Git clone the project with  git clone https://github.com/jod35/Pizza-Delivery-API.git
 - Create your virtual environment
 - Install the requirements with pip install -r requirements.txt
 - Set Up your PostgreSQL database and set its URI in your database.py
